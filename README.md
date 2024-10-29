@@ -1,0 +1,1 @@
+# Snowflake-Internal-Stage-Vs-External-Stage
